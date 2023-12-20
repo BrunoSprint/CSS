@@ -1,9 +1,28 @@
+
+
 body{
 
-align-items: center;
+text-align: center;
 background: black;
-color: lightgreen;
-
-
-
+color: lightskyblues;
 }
+
+
+/* Depurando o CSS / Debug.
+
+para abrir o devtool user ctrl + shift + i
+
+ctrl + shift + m   altera exibição: mobile / DeskTop
+
+
+
+Seletor de Tag / tipo
+
+
+
+
+
+
+
+
+*/
